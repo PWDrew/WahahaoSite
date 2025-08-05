@@ -24,7 +24,7 @@ button.addEventListener("click", () => {
   if (!loopStarted) {
     loopStarted = true;
     button.disabled = true;
-    button.textContent = "🔊 playing...";
+    button.textContent = "Wahahao";
     playSequence();
   }
 });
